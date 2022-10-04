@@ -47,26 +47,22 @@
 1. Click [SCAN](https://replit.com/@darkalphaxteam/Queen-Bixby-MD-Pro?v=1?outputonly=1&lite=1#index.js)) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 2. You will get a long text that needs after 4th step (session.json).
-
-3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-
-4. Click [FORK](https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW/fork)
-
-5. Click the url showing below to copy deploy template
+  
+3. Click the url showing below to copy deploy template
 
 ```
 
-https://heroku.com/deploy?template=https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW
+https://heroku.com/deploy?template=https://github.com/Sandamadu901/Sanduwa-BOt-SL
 
 ``` 
 
-6. Now change `darkalphaxteam´ with your github username and click ENJOY<br>
+4. Now  ENJOY<br>
 
    <br>
 
 # Contact for help:
 
-   * Click [Contact](https://wa.me/94711421243) Here For Contact
+   * Click [Contact](https://wa.me/94786807773) Here For Contact
 
       </br> <p/>
 
